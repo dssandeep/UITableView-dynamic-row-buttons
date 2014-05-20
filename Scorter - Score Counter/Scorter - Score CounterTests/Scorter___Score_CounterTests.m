@@ -1,0 +1,34 @@
+//
+//  Scorter___Score_CounterTests.m
+//  Scorter - Score CounterTests
+//
+//  Created by Naser Mokkary on 4/27/14.
+//  Copyright (c) 2014 Naser Mokkary. All rights reserved.
+//
+
+#import <XCTest/XCTest.h>
+
+@interface Scorter___Score_CounterTests : XCTestCase
+
+@end
+
+@implementation Scorter___Score_CounterTests
+
+- (void)setUp
+{
+    [super setUp];
+    // Put setup code here. This method is called before the invocation of each test method in the class.
+}
+
+- (void)tearDown
+{
+    // Put teardown code here. This method is called after the invocation of each test method in the class.
+    [super tearDown];
+}
+
+- (void)testExample
+{
+    XCTFail(@"No implementation for \"%s\"", __PRETTY_FUNCTION__);
+}
+
+@end
